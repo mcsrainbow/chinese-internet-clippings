@@ -1,4 +1,4 @@
-# chinese-internet-clippings 中文互联网剪报
+# Chinese Internet Clippings 中文互联网剪报
 
 ```
 你的应用最好不要依赖云服务商，要做到“可弹出”(ejectable)，即随时可以切换到自托管环境。
